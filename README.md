@@ -1,6 +1,9 @@
 # Sickbay
 Get the HTTP status of a bunch of URLs in a single JSON response. Ideal of monitoring a lot of services at once.
 
+[![Code Climate](https://codeclimate.com/github/IgorMarques/sickbay/badges/gpa.svg)](https://codeclimate.com/github/IgorMarques/sickbay)
+[![Test Coverage](https://codeclimate.com/github/IgorMarques/sickbay/badges/coverage.svg)](https://codeclimate.com/github/IgorMarques/sickbay/coverage)
+
 ```shell
 $ curl -X GET 'http://localhost:9292?google=http://www.google.com.br&bing=http://www.bing.com'
 ```
