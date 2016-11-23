@@ -29,7 +29,7 @@ Acessing:
 
 https://sickbay.herokuapp.com/?google=http://www.google.com&bing=http://www.bing.com
 
-For instance should return you the status of Google and Bing.
+For instance should return you the statuses of Google and Bing.
 
 
 ## Setup
