@@ -3,7 +3,7 @@ Get the HTTP status of a bunch of URLs in a single JSON response. Ideal of monit
 
 [![Code Climate](https://codeclimate.com/github/IgorMarques/sickbay/badges/gpa.svg)](https://codeclimate.com/github/IgorMarques/sickbay)
 [![Build Status](https://travis-ci.org/IgorMarques/sickbay.svg?branch=master)](https://travis-ci.org/IgorMarques/sickbay)
-[![Test Coverage](https://codeclimate.com/github/IgorMarques/sickbay/badges/coverage.svg)](https://codeclimate.com/github/IgorMarques/sickbay/coverage)
+[![Coverage Status](https://coveralls.io/repos/github/IgorMarques/sickbay/badge.svg?branch=master)](https://coveralls.io/github/IgorMarques/sickbay?branch=master)
 
 ```shell
 $ curl -X GET 'http://localhost:9292?google=http://www.google.com.br&bing=http://www.bing.com'
