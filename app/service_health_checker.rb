@@ -1,8 +1,6 @@
 require 'uri'
 require 'net/http'
 
-require_relative 'service_health_checker'
-
 class ServiceHealthChecker
   def self.call(service_url)
     return '0' if service_url.nil?
