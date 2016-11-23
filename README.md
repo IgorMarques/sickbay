@@ -21,6 +21,17 @@ This app can be very useful for healthchecking multiple applications at the same
 
 The app is also easily deployable on heroku on any other service of your preference.
 
+## Live App
+
+You can check the app at https://sickbay.herokuapp.com
+
+Acessing:
+
+https://sickbay.herokuapp.com/?google=http://www.google.com&bing=http://www.bing.com
+
+For instance should return you the status of Google and Bing.
+
+
 ## Setup
 
 Assuming you have a proper Ruby workspace setted up, just run:
