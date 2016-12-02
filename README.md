@@ -1,5 +1,5 @@
 # Sickbay
-Get the HTTP status of a bunch of URLs in a single JSON response. Ideal of monitoring a lot of services at once.
+Get the HTTP status of a bunch of URLs in a single JSON response. Ideal for monitoring a lot of services at once.
 
 [![Code Climate](https://codeclimate.com/github/IgorMarques/sickbay/badges/gpa.svg)](https://codeclimate.com/github/IgorMarques/sickbay)
 [![Build Status](https://travis-ci.org/IgorMarques/sickbay.svg?branch=master)](https://travis-ci.org/IgorMarques/sickbay)
