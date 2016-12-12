@@ -22,6 +22,8 @@ This app can be very useful for healthchecking multiple applications at the same
 
 The app is also easily deployable on heroku on any other service of your preference.
 
+One app that uses Sickbay for healthchecking is The Nurse [click here for more info](https://github.com/IgorMarques/The-Nurse). 
+
 ## Live App
 
 You can check the app at https://sickbay.herokuapp.com
